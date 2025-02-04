@@ -1,5 +1,3 @@
-# Testes com playwright
-
 Um projeto focado na criação de testes end-to-end de forma simples, visando o treinamento dessa cultura de testes.
 
 ## 🤓 Antes de começar
@@ -44,9 +42,6 @@ Nesse último requisito, crie os seguintes testes:
 - Verificar se ao remover um alimento, o total de calorias é atualizado corretamente.
 
 Se quiser ir além, crie outros testes!
-
-> 👀 **Dicas:**
-> - Pensar qual seria o fluxo do usuário pode te ajudar a destravar nos testes
 
 
 ## 👉🏽 Sobre esse mini-projeto
